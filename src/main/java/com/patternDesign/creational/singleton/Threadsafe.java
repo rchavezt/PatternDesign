@@ -1,4 +1,4 @@
-package com.patternDesign.singleton;
+package com.patternDesign.creational.singleton;
 
 public class Threadsafe {
     private static Threadsafe instance = null;
